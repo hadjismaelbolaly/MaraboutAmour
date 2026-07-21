@@ -4,7 +4,7 @@ import { ArrowRight, CalendarDays } from "lucide-react";
 import SectionHeading from "@/components/SectionHeading";
 import Reveal from "@/components/Reveal";
 import CtaBanner from "@/components/CtaBanner";
-import { blogPosts } from "@/data/blog";
+import { getAllPosts } from "@/lib/blog";
 
 export const metadata: Metadata = {
   title: "Blog",
@@ -17,6 +17,7 @@ function formatDate(d: string) {
 }
 
 export default function BlogPage() {
+  const blogPosts = getAllPosts();
   return (
     <>
       <section className="pt-36 pb-20">
