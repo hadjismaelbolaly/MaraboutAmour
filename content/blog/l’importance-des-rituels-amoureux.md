@@ -5,7 +5,7 @@ excerpt: Les rituels d’amour occupent une place importante dans de nombreuses
   traditions spirituelles. Ils sont souvent associés à la recherche d’harmonie,
   à l’introspection, à la confiance en soi et au désir de favoriser des
   relations affectives plus équilibrées.
-image: /images/blog/img_5235.jpeg
+image: ""
 ---
 **L’importance des rituels d’amour avec Hadj Ismael Bohlaly**
 
