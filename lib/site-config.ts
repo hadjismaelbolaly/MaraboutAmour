@@ -5,9 +5,9 @@ export const siteConfig = {
     "Accompagnement spirituel personnalisé pour vos difficultés sentimentales : réconciliation, retour affectif, protection du couple, mariage. Consultation à Ouagadougou et à distance, partout dans le monde.",
   url: "https://hadjismaelbohlaly.com",
   location: "Ouagadougou, Burkina Faso",
-  phone: "+226 03 80 92 92",
-  phoneHref: "tel:+22603809292",
-  whatsapp: "https://wa.me/message/M3V72WB7GUSTD1",
+  phone: "+226 66 72 58 52",
+  phoneHref: "tel:+22666725852",
+  whatsapp: "https://wa.me/message/5XUQKSLTFK6RO1",
   email: "hadjismaelbolaly@gmail.com",
   youtube: "https://youtube.com/@hadjismaelbolalyofficiel?si=QhY6U2Gjzc7kZF8u",
 };
