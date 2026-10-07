@@ -7,7 +7,7 @@ export const siteConfig = {
   location: "Ouagadougou, Burkina Faso",
   phone: "+226 04 46 94 54",
 phoneHref: "tel:+22604469454",
-whatsapp: "https://wa.me/message/7ZPNT4WUNBYGI1",
+whatsapp: "https://wa.me/22604469454",
   email: "hadjismaelbolaly@gmail.com",
   youtube: "https://youtube.com/@hadjismaelbolalyofficiel?si=QhY6U2Gjzc7kZF8u",
 };
